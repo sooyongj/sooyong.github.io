@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 3"
+title: "Characterizing Glycemic Control and Sleep in Adults with Long-Standing Type 1 Diabetes and Hypoglycemia Unawareness Initiating Hybrid Closed Loop Insulin Delivery"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+permalink: /publication/2021_characterizing_glycemic
+excerpt: 'Nocturnal hypoglycemia is life threatening for individuals with type 1 diabetes (T1D) due to loss of hypoglycemia symptom recognition (hypoglycemia unawareness) and impaired glucose counter regulation. These individuals also show disturbed sleep, which may result from glycemic dysregulation. Whether use of a hybrid closed loop (HCL) insulin delivery system with integrated continuous glucose monitoring (CGM) designed for improving glycemic control, relates to better sleep across time in this population remains unknown. The purpose of this study was to describe long-term changes in glycemic control and objective sleep after initiating hybrid closed loop (HCL) insulin delivery in adults with type 1 diabetes and hypoglycemia unawareness. To accomplish this, six adults (median ) participated in an 18-month ongoing trial assessing HCL effectiveness. Glycemic control and sleep were measured using continuous glucose monitoring and wrist accelerometers every 3 months. Paired sample -tests and Cohen’s  effect sizes modeled glycemic and sleep changes and the magnitude of these changes from baseline to 9 months. Reduced hypoglycemia (), reduced basal insulin requirements (), and a smaller glucose coefficient of variation () occurred with medium-large effect sizes from baseline to 9 months. Hypoglycemia awareness improved from baseline to 6 months with medium-large effect sizes (Clarke score (), lability index (), HYPO score ()). Shorter sleep onset latency (; ), shorter sleep duration (), fewer total activity counts (), shorter average awakening length (), and delays in sleep onset () and sleep midpoint () occurred with medium-large effect sizes from baseline to 9 months. HCL led to clinically significant reductions in hypoglycemia and improved hypoglycemia awareness. Sleep showed a delayed onset, reduced awakening length and onset latency, and maintenance of high sleep efficiency after initiating HCL. Our findings add to the limited evidence on the relationships between diabetes therapeutic technologies and sleep health. This trial is registered with ClinicalTrials.gov (NCT03215914).'
+date: 2021-02-12
+venue: 'Journal of Diabetes Research 2021'
+paperurl: 'https://downloads.hindawi.com/journals/jdr/2021/6611064.pdf'
