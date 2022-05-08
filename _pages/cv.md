@@ -15,3 +15,5 @@ Education
 * B.B.A. in Buisness (Double Major), Seoul Nationl University, 2013
 * M.S. in Computer and Information Science, Univerity of Pennsylvania, 2017
 * Ph.D in Computer and Information Science, Univerity of Pennsylvania, 2024 (expected)
+
+Detailed CV can be downloaded here(https://sooyongj.github.io/files/cv\_sooyongj.pdf
