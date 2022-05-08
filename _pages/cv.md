@@ -16,4 +16,4 @@ Education
 * M.S. in Computer and Information Science, Univerity of Pennsylvania, 2017
 * Ph.D in Computer and Information Science, Univerity of Pennsylvania, 2024 (expected)
 
-Detailed CV can be downloaded [here](https://sooyongj.github.io/files/cv_sooyongj.pdf)
+Detailed CV can be downloaded [here](https://sooyongj.github.io/files/cv_sooyongj.pdf).
