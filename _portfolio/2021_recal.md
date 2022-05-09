@@ -1,5 +1,5 @@
 ---
-title: "ReCal"
+title: "Recursive Lossy Label-Invariant Calibration (ReCal)"
 excerpt: "Confidence Calibration using Lossy Label-Invariant Transformation<br/><img src='/images/recal_thumbnail.png'>"
 collection: portfolio
 ---
