@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=R7_PYuQAAAAJ">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=R7_PYuQAAAAJ" target='_blank'>my Google Scholar profile</a>.</u>
 
 {% include base_path %}
 
