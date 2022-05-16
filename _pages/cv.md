@@ -16,4 +16,4 @@ Education
 * B.S. in Computer Science and Engineering, Seoul National University, 2013
 * B.B.A. in Business (Double Major), Seoul National University, 2013
 
-Detailed CV can be downloaded [here](https://sooyongj.github.io/files/cv_sooyongj.pdf).
+Detailed CV can be downloaded [here](https://sooyongj.github.io/files/cv_sooyongj.pdf){:target='_blank'}.
