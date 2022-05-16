@@ -1,5 +1,5 @@
 ---
-title: "Watching history tracker"
+title: "[Android App] Watching history tracker"
 excerpt: "An android app managing watching history <br/><img src='/images/2016_watching.png'>"
 collection: portfolio
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Reducing false low SpO2 alarms"
+title: "[Research] Reducing false low SpO2 alarms"
 excerpt: "Silence false SpO2 alarms using adaboost with reject option<br/><img src='/images/adaboost_reject.png'>"
 collection: portfolio
 ---
