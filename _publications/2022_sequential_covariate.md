@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022_sequential_covariate
 excerpt: 'A standard assumption in supervised learning is that the training data and test data are from the same distribution. However, this assumption often fails to hold in practice, which can cause the learned model to perform poorly. We consider the problem of detecting covariate shift, where the covariate distribution shifts but the conditional distribution of labels given covariates remains the same.'
 date: 2022-06-28
-venue: 'International Conference on Machine Learning (ICML) 2022 (Accepted)'
+venue: 'International Conference on Machine Learning (ICML) 2022'
 paperurl: 'https://proceedings.mlr.press/v162/jang22a/jang22a.pdf'
 ---
 
