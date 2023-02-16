@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-I am a Ph.D. student in Computer and Information Science at University of Pennsylvania, working with Professor Insup Lee, Professor James Weimer and Professor Osbert Bastani. I earned my master degree in the same school. I obtained my bachelor degree in Computer Science and Engineering and Business at Seoul National University.
+I am a Ph.D. student in Computer and Information Science at University of Pennsylvania, working with Professor Insup Lee, Professor James Weimer and Professor Osbert Bastani. I earned my master degree at the same school. I obtained my bachelor degree in Computer Science and Engineering and Business at Seoul National University.
