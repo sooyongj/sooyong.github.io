@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021_improving_classifier
 excerpt: 'Providing reliable model uncertainty estimates is imperative to enabling robust decision making by autonomous agents and humans alike. In this paper, we present the recursive lossy label-invariant calibration (ReCal) technique that leverages label-invariant transformations to recursively group (and calibrate) inputs. We show that ReCal outperforms other calibration methods on multiple datasets, especially, on large-scale datasets such as ImageNet.'
 date: 2021-03-18
-venue: 'International Conference on Artificial Intelligence and Statistics (AISTATS) 2021'
+venue: 'International Conference on Artificial Intelligence and Statistics (AISTATS)'
 paperurl: 'http://proceedings.mlr.press/v130/jang21a/jang21a.pdf'
 ---
 
