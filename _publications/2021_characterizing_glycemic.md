@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021_characterizing_glycemic
 excerpt: 'Nocturnal hypoglycemia is life threatening for individuals with type 1 diabetes (T1D) due to loss of hypoglycemia symptom recognition (hypoglycemia unawareness) and impaired glucose counter regulation. These individuals also show disturbed sleep, which may result from glycemic dysregulation. The purpose of this study was to describe long-term changes in glycemic control and objective sleep after initiating hybrid closed loop (HCL) insulin delivery in adults with type 1 diabetes and hypoglycemia unawareness.'
 date: 2021-02-12
-venue: 'Journal of Diabetes Research 2021'
+venue: 'Journal of Diabetes Research'
 paperurl: 'https://downloads.hindawi.com/journals/jdr/2021/6611064.pdf'
 ---
 
